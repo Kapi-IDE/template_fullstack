@@ -4,6 +4,9 @@ An educational platform for teaching programming with AI-assisted coding. This p
 
 ## Project Structure
 
+All the core docs are in are docs/ folder. Read through teh architecture.md file to understand the tech stack and how the project is structured.
+Use the vision and backlog to plan your work.
+
 ```
 edu-ai-coder/
 ├── backend/                  # Python FastAPI backend

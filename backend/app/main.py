@@ -99,4 +99,4 @@ async def delete_lesson(lesson_id: int):
 
 if __name__ == "__main__":
     # Use debug mode in development
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=config.DEBUG)
+    uvicorn.run("main:app", host="0.0.0.0", port=8001, reload=config.DEBUG)
